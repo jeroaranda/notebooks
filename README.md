@@ -3,6 +3,7 @@ some jupyter notebooks for different topics I like. The image processing is the 
 
 ## Python notebooks
 * Image processing
+	* RGB clusterization, slicing, transferring image paletes. 
 * Text processing
 * Computing
 
