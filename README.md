@@ -3,7 +3,13 @@ some jupyter notebooks for different topics I like. The image processing is the 
 
 ## Python notebooks
 * Image processing
-	* RGB clusterization, slicing, transferring image paletes. 
+    * RGB K-means clusterization
+    * Transferring image paletes
+    * Getting sky gradient
+    ![](panoramica_con_gradiente.png)
+    * Plotting gaussian Kernels
+    ![](heatmap.png)
+    
 * Text processing
 * Computing
 
