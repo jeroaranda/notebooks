@@ -11,6 +11,11 @@ some jupyter notebooks for different topics I like. The image processing is the 
     ![](heatmap.png)
     
 * Text processing
+
+* Data Science
+    *Geopandas plotting with bokeh.
+    ![](desaparecidas.png)
+
 * Computing
 
 ## Julia notebooks
